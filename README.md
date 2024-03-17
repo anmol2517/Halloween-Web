@@ -10,3 +10,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 - 🎃[AnmoL]🎃
+
+
+![Halloween Web](https://github.com/anmol2517/Halloween-Web/assets/110680449/53e828af-a2af-4f86-aa09-2f8f17c5d38f)
